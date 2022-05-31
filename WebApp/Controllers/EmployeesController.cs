@@ -10,6 +10,9 @@ using WebApp.Data;
 
 namespace WebApp.Controllers
 {
+    /// <summary>
+    /// Test comment
+    /// </summary>
     public class EmployeesController : Controller
     {
         private readonly WebAppContext _context;
